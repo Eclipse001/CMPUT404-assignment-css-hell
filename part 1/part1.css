@@ -1,25 +1,30 @@
-/* Orginally from http://www.gutenberg.org/files/244/244-h/244-h.htm*/
+/* Modified from the css part from http://www.gutenberg.org/files/244/244-h/244-h.htm*/
 body{ 
 	margin:5%; 
-	background:#faebd0; 
-	text-align:justify
+	background-image: url(paper_texture.jpg);
+	text-align: justify;
 }
 
 p{ 
 	text-indent: 1em; 
 	margin-top: .25em; 
 	margin-bottom: .25em; 
+	
+	font-family: Arial;
 }
 
 h1,h2,h3,h4,h5,h6 { 
 	text-align: center; 
 	margin-left: 15%; 
-	margin-right: 15%; 
+	margin-right: 15%;
+	
+	font-family: Arial;
+	color: #800000;
 }
     
-hr  { 
-width: 50%; 
-text-align: center;
+hr { 
+	width: 50%; 
+	text-align: center;
 }
     
 .foot { 
