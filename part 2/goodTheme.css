@@ -1,0 +1,42 @@
+body{  
+	background-image: url(background.jpg);
+	text-align: justify;
+	color: purple;
+}
+
+.sidebar{
+
+	font-family: Arial;
+	font-size: 17pt;
+	text-align: left;
+	
+	position: absolute;
+   top: 0px;
+   left: 0px;
+   width: 350px;
+   height: 900px;
+   border: 3px;
+   background-color: rgba(0,255,0,0.3);
+}
+
+.main_text{
+	font-family: Arial;
+	font-size: 17pt;
+	text-align: left;
+	
+	position: absolute;
+   top: 0px;
+   left: 450px;
+   width: 750px;
+}
+
+.right_section{
+	font-family: Arial;
+	font-size: 17pt;
+	text-align: left;
+	
+	position: absolute;
+   top: 50px;
+   left: 1200px;
+}
+
