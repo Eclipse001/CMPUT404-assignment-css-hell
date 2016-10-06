@@ -1,0 +1,45 @@
+body{  
+	background-color:greenyellow;
+	text-align: justify;
+}
+
+.sidebar{
+
+	font-family: Arial;
+	font-size: 17pt;
+	text-align: left;
+	
+	position: absolute;
+   top: 0px;
+   left: 1250px;
+   width: 350px;
+   height: 900px;
+   border: 3px;
+   background-color: rgba(0,150,100,0.3);
+   color: rgba(0,255,235,0.3);
+}
+
+.main_text{
+	font-family: Arial;
+	font-size: 17pt;
+	text-align: left;
+	
+	position: absolute;
+   top: 300px;
+   left: 0px;
+   width: 750px;
+   
+   color: rgba(255,255,235,0.6);
+}
+
+.right_section{
+	font-family: Arial;
+	font-size: 17pt;
+	text-align: left;
+	
+	position: absolute;
+   top: 250px;
+   left: 550px;
+   color: rgba(255,0,235,0.6);
+}
+
